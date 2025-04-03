@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="buttonLogin" type="id">idlogin</item>
+    <item name="editUsuario" type="id">idusuario</item>
+    <item name="editSenha" type="id">idsenha</item>
+</resources>
